@@ -33,3 +33,4 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 * [Abel Flores](https://github.com/abel91)
 * [Quico Climent](https://github.com/climentquico)
 * [Rebeca Jordà](https://github.com/rebecajord/TdPiED)
+* [María Salcines] (https://github.com/mariasalcines/TdPiED)
